@@ -21,9 +21,11 @@ Built for developers, builders, and founders who want to move fast with AI.
 
 ## 🤖 Starter Agents
 
-- CrewAI Multi-Agent Starter  
-- LangChain + LangGraph Templates  
-- Google ADK Starter  
+## 🤖 AI Agent Frameworks
+
+- [LangChain](https://github.com/langchain-ai/langchain) — Build LLM-powered apps  
+- [CrewAI](https://github.com/joaomdmoura/crewai) — Multi-agent orchestration  
+- [LangGraph](https://github.com/langchain-ai/langgraph) — Stateful workflows  
 
 ---
 
