@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # 🚀 Awesome AI Agents & Automation
 
 A curated collection of the best AI agents, automation tools, and real-world use cases.
