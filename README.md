@@ -1,6 +1,6 @@
-![Banner](banner.png)
+[![Banner](assets/banner.png)](https://github.com/asdanyal/awesome-ai-agents-automation)
 
-# 🚀 Awesome AI Agents & Automation
+# Awesome AI Agents & Automation
 
 A curated collection of the best AI agents, automation tools, and real-world use cases.
 
