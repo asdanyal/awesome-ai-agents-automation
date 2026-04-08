@@ -37,6 +37,8 @@ Built for developers, builders, and founders who want to **learn faster, build f
 - [AutoGen](https://github.com/microsoft/autogen) — Multi-agent conversations  
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — Data framework for LLM apps  
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) — AI orchestration SDK  
+- [AgentGPT](https://github.com/reworkd/AgentGPT) — Run autonomous AI agents in your browser  
+- [AutoGPT](https://github.com/Torantulino/Auto-GPT) — Fully autonomous AI agent framework  
 
 ---
 
@@ -47,6 +49,7 @@ Built for developers, builders, and founders who want to **learn faster, build f
 - [Quivr](https://github.com/StanGirard/quivr) — Personal knowledge base  
 - [Embedchain](https://github.com/embedchain/embedchain) — Build RAG apps fast  
 - [RAGFlow](https://github.com/infiniflow/ragflow) — Advanced RAG pipelines  
+- [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) — Full-stack AI app for RAG and document chat  
 
 ---
 
@@ -77,6 +80,8 @@ Built for developers, builders, and founders who want to **learn faster, build f
 - [Guidance](https://github.com/guidance-ai/guidance) — Structured prompting  
 - [Instructor](https://github.com/jxnl/instructor) — Structured outputs  
 - [Flowise](https://github.com/FlowiseAI/Flowise) — Visual LLM builder  
+- [Flowise](https://github.com/FlowiseAI/Flowise) — Visual drag-and-drop LLM app builder  
+- [Dify](https://github.com/langgenius/dify) — Build AI apps with workflows and RAG  
 
 ---
 
@@ -99,6 +104,19 @@ Built for developers, builders, and founders who want to **learn faster, build f
 - [FastAI](https://github.com/fastai/fastai) — Practical deep learning  
 
 ---
+
+## Top 10 Must Build AI Projects
+
+- AI Email Marketing Agent — Generate and send personalized emails  
+- LinkedIn Content Generator — Hooks + posts generator  
+- Chat with PDFs — RAG-based document Q&A  
+- Resume Optimizer — Improve resumes using AI  
+- Voice AI Assistant — Real-time speech interaction  
+- Meeting Notes → Tasks — Convert meetings into action items  
+- YouTube Trend Analyzer — Find viral content ideas  
+- Brand Monitoring Agent — Track mentions and sentiment  
+- Customer Support Bot — Automated responses using RAG  
+- AI Research Agent — Multi-agent research workflows  
 
 ## 🔥 Real Use Cases
 
