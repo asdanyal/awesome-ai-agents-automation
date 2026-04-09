@@ -18,6 +18,40 @@ Built for developers, builders, and founders who want to **learn faster, build f
 
 ---
 
+## 🗺️ AI Learning Roadmap (Beginner → Advanced)
+
+### 🟢 Beginner
+
+- Learn basics of LLMs (prompts, tokens, context)
+- Start with [LangChain](https://github.com/langchain-ai/langchain)  
+- Build simple apps (chatbots, text generators)
+
+---
+
+### 🟡 Intermediate
+
+- Learn RAG (Retrieval-Augmented Generation)
+- Use [LlamaIndex](https://github.com/jerryjliu/llama_index)  
+- Build “Chat with PDFs” or document Q&A apps  
+
+---
+
+### 🔵 Advanced
+
+- Learn multi-agent systems  
+- Use [CrewAI](https://github.com/joaomdmoura/crewai) or [LangGraph](https://github.com/langchain-ai/langgraph)  
+- Add memory, tools, and workflows  
+
+---
+
+### 🔴 Production
+
+- Add state persistence (DB / Redis)  
+- Add logging & observability  
+- Handle retries, failures, and scaling  
+
+---
+
 ## 🧠 What You'll Find Here
 
 - 🤖 AI Agent Frameworks (LangChain, CrewAI, LangGraph)  
