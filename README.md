@@ -109,6 +109,7 @@ Built for developers, builders, and founders who want to **learn faster, build f
 
 ## 🧰 LLM Tools & Utilities
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local payment runtime and stdio MCP tools for x402 offers, bounded payment preparation, status and receipts; Apple Silicon macOS and Node 24 only.  
 - [Ollama](https://github.com/ollama/ollama) — Run LLMs locally  
 - [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) — Code execution agent  
 - [Guidance](https://github.com/guidance-ai/guidance) — Structured prompting  
